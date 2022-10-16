@@ -10,5 +10,6 @@ export default {
   argTypes: {},
 } as Meta<ButtonProps>
 
+// Button component
 
 export const Default: StoryObj<ButtonProps> = {}
